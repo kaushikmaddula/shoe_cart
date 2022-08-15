@@ -1,1 +1,2 @@
-# shoe-website
+# It is a Online Shopping Application.
+
